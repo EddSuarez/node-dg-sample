@@ -6,4 +6,4 @@
 
 
 # Ghost instant app
-[![Deploy](https://cdn.rawgit.com/thedigitalgarage/digitalgarage-assets/master/images/icons/ghost/ghost-original.svg)](https://localhost:8081/api/deploy/ghost)
+[Deploy](https://localhost:8081/api/deploy/ghost)
