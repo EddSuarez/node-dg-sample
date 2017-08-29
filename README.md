@@ -6,4 +6,4 @@
 
 
 # Ghost instant app
-[Deploy](https://localhost:8081/api/deploy/instant)
+[Deploy](https://localhost:8081/api/deploy/instant?app=ghost)
