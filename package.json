@@ -1,16 +1,20 @@
 {
-  "name": "nodejs-dg-sample",
+  "name": "nodejs-sample",
   "version": "1.0.0",
-  "description": "NodeJs sample for DG",
+  "description": "NodeJs sample",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/EddSuarez/node-sample"
+  },
   "author": "Edd Suárez <eddsuarez89@gmail.com> (https://github.com/eddsuarez)",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.15.3",
+    "express": "^4.17.1",
     "path": "^0.12.7"
   }
 }
